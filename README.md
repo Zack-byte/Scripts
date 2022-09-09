@@ -1,2 +1,1 @@
-# Scripts
-A variety of scripts for various purposes
+A publically accessable home for scripts Random Scripts I've written. 
